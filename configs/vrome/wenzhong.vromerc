@@ -1,0 +1,9 @@
+map j 10j
+map k 10k
+
+map h gT
+map l gt
+
+map d dc
+
+set searchengines={"google":"http://www.google.com/search?q={{keyword}}", "yahoo":"http://search.yahoo.com/search?p={{keyword}}","wiki":"http://en.wikipedia.org/wiki/{{keyword}}", "b":"http://search.corp.yahoo.com/q.php?search=&query={{keyword}}"}
