@@ -6,6 +6,6 @@ map l gt
 
 map d dc
 
-set searchengines={"google":"http://www.google.com/search?q={{keyword}}", "yahoo":"http://search.yahoo.com/search?p={{keyword}}","wiki":"http://en.wikipedia.org/wiki/{{keyword}}", "b":"http://search.corp.yahoo.com/q.php?search=&query={{keyword}}", "ir":"http://igor.corp.yahoo.com:9999/igor/ui/role/rules?role={{keyword}}", "im":"http://igor.corp.yahoo.com:9999/igor/ui/role/members?role={{keyword}}"}
+set searchengines={"google":"http://www.google.com/search?q={{keyword}}", "yahoo":"http://search.yahoo.com/search?p={{keyword}}","wiki":"http://en.wikipedia.org/wiki/{{keyword}}", "b":"http://search.corp.yahoo.com/q.php?search=&query={{keyword}}", "ir":"http://igor.corp.yahoo.com:9999/igor/ui/role/rules?role={{keyword}}", "im":"http://igor.corp.yahoo.com:9999/igor/ui/role/members?role={{keyword}}", "chord":"http://jguitar.com/chordsearch?chordsearch={{keyword}}&labels=none"}
 
 set disablesites=mail.google.com, mail.yahoo-inc.com,us-mg5.mail.yahoo.com
